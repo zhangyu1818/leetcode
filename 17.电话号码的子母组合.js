@@ -31,5 +31,3 @@ const letterCombinations = digits => {
   };
   return combiner(digitsArr);
 };
-
-console.log(letterCombinations("23"));
